@@ -154,5 +154,5 @@ and we do not use it for targeted advertising.
 If this policy changes, we will update the date at the top and, for significant changes,
 let you know in the App.
 
-TERMS OF USE: https://6hts2nmvbt-source.github.io/Terms-of-Use/ 
+TERMS OF USE: https://6hts2nmvbt-source.github.io/The-Set-App/ 
 
