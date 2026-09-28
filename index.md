@@ -122,3 +122,6 @@ of that country. Otherwise the courts of Rome, Italy, have jurisdiction.
 ## 14. Contact
 
 **thesetapplication@gmail.com** 
+
+SUPPORT: https://6hts2nmvbt-source.github.io/The-Set-App/support-en
+
