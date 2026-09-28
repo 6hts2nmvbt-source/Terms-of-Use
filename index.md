@@ -14,6 +14,8 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/. If the two co
 EULA prevails on the licence itself; these Terms apply to everything else, in particular the
 service and the subscription.
 
+PRIVACY POLICY https://6hts2nmvbt-source.github.io/Terms-of-Use/privacy-policy-en
+
 ## 2. What the App does
 
 The App helps people working in film and TV production to read, create and consult call
